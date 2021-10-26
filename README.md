@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Projects
 - [EnergyPlus Data Scraper (in progress)](https://klharp.github.io/Eplus_Maine//index.html)
-- [Carbon Emissions Predictor)](https://klharp.github.io/Greenhouse-Gas-Emissions-Predictor/)
+- [Carbon Emissions Predictor](https://klharp.github.io/Greenhouse-Gas-Emissions-Predictor/)
 - [Healthy Neighborhoods Dashboard](https://klharp.github.io/Healthy-Neighborhoods-Dashboard/templates/)
 - [See more...](http://127.0.0.1:5501/projects.html)
 
@@ -49,3 +49,8 @@ Here are some ideas to get you started:
 [website]: https://klharp.github.io/
 [twitter]: https://twitter.com/design_harp
 [linkedin]: https://www.linkedin.com/in/kerryhaglund/
+
+<br /><br />
+
+Copyright &copy; 2021, Harp Design, Inc. 
+All rights reserved.
