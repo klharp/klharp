@@ -1,6 +1,6 @@
 # KERRY HARP
 
-### Consultant, designer, visualization, and data analyst with experience working in the areas of energy efficiency, sustainability, and the health/wellbeing of building occupants. My value is to research, promote, and deploy resilient, sustainable, and wellbeing strategies to inspire solutions to environmental, social, and governance (ESG) issues.
+Consultant, designer, visualization, and data analyst with experience working in the areas of energy efficiency, sustainability, and the health/wellbeing of building occupants. My value is to research, promote, and deploy resilient, sustainable, and wellbeing strategies to inspire solutions to environmental, social, and governance (ESG) issues.
 
 <!--
 **klharp/klharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
