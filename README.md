@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Connect
 
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br /><br />
-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br /><br />
-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+&nbsp;&nbsp;&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+&nbsp;&nbsp;&nbsp;[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 ## Projects
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/design_harp
 [linkedin]: https://www.linkedin.com/in/kerryhaglund/
 
-
+<!-- 
 
 # &nbsp;
 Copyright &copy; 2021, Harp Design, Inc. 
-All rights reserved.
+All rights reserved. -->
