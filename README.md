@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 ## Connect
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-&nbsp;&nbsp;&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-&nbsp;&nbsp;&nbsp;[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="static/img/linkedin.png" />][linkedin]
+&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="Twitter" width="22px" src="static/img/twitter.png" />][twitter]
+&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="Instagram" width="22px" src="static/img/instagram.png" />][instagram]
+&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="Email" width="22px" src="static/img/email.png" />][email]
 
 
 ## Projects
@@ -41,7 +45,8 @@ Here are some ideas to get you started:
 [website]: https://klharp.github.io/
 [twitter]: https://twitter.com/design_harp
 [linkedin]: https://www.linkedin.com/in/kerryhaglund/
-
+[instagram]: https://instagram.com/harpdesigninc/
+[email]: mailto:kharp@umn.edu
 <!-- 
 
 # &nbsp;
